@@ -187,13 +187,13 @@ sudo pacman -Syu pyinstaller
   -v, --verbose      Give details about actions  being performed
   ```
 
-## **Contributions**
+## **Contribuciones**
 
-> Contributions are welcome! If you have suggestions, corrections, or wish to add additional content to this project, feel free to open an issue or submit a pull request. Your help is essential in making this project a comprehensive and up-to-date reference for the development community.
+> ¡Se aceptan contribuciones! Si tienes sugerencias, correcciones o deseas agregar contenido adicional a este proyecto, no dudes en abrir un problema o enviar una solicitud de extracción. Tu ayuda es fundamental para hacer de este proyecto una referencia completa y actualizada para la comunidad de desarrollo.
 
-## **License**
+## **Licencia**
 
-> This repository is published under the MIT License. Feel free to use, modify, and distribute the content according to the terms of this license.
+> Este repositorio se publica bajo la Licencia MIT. Siéntete libre de utilizar, modificar y distribuir el contenido de acuerdo con los términos de esta licencia.
 
 ## ***Autor***
 
