@@ -1,14 +1,11 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
-<!-- Autor: Daniel Benjamin Perez Morales -->
-<!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
-<!-- Correo electrónico: danielperezdev@proton.me  -->
 # **Security Policy**
 
 ## **Vulnerability Reporting**
 
-*At [nombre_del_repositorio], we take the security of our code and our users very seriously. If you discover a vulnerability that could compromise the security of the project, we encourage you to let us know immediately. We appreciate and reward the efforts of those who help us improve the security of our software.*
+*At [cppy-cli], we take the security of our code and our users very seriously. If you discover a vulnerability that could compromise the security of the project, we encourage you to let us know immediately. We appreciate and reward the efforts of those who help us improve the security of our software.*
 
 **Please follow these guidelines when reporting a vulnerability:**
 
