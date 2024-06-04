@@ -134,13 +134,13 @@ sudo pacman -Syu pyinstaller
   - *Run the following command to generate the binary:*
 
     ```bash
-    pyinstaller --onefile cpy.py
+    pyinstaller --onefile ./cpy.py
     ```
 
   - *This will create an executable file named cp in the cpy-cli/src/dist directory. Now you can run the CP binary on your Linux system.*
   
   ```bash
-  user@user-host:~/Desktop/cpy-cli/src/$ tree    -C
+  user@user-host:~/Desktop/cpy-cli/src/$ tree -C
   .
   ├── build
   │   └── cp
