@@ -103,7 +103,7 @@ def copy(src: PosixPath, dest: PosixPath, override:bool=False, recursive:bool=Fa
 
 
 def cli() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(
+    parser: argparse.ArgumentParser = argparse.ArgumentParser(
         prog="cpy",
         description="cp command implementation in Python",
     )
